@@ -9,6 +9,16 @@
 <img src="https://img.shields.io/badge/Material_Design-6200EE?style=for-the-badge&logo=materialdesign&logoColor=white">
 
 **Proyecto desarrollado como práctica de programación móvil utilizando Android Studio y Kotlin.**
+# 👨‍💻 Autor
+
+**Aura Nicte-Ha Pech Reyes**
+
+
+Diplomado en Desarrollo de Aplicaciones Móviles
+
+2026
+
+---
 
 ---
 
@@ -229,22 +239,9 @@ Al finalizar esta práctica el estudiante es capaz de:
 
 ---
 
-# 👨‍💻 Autor
-
-**Nombre del estudiante**
-
-Universidad Nacional Autónoma de México
-
-Diplomado en Desarrollo de Aplicaciones Móviles
-
-2026
-
----
 
 <div align="center">
 
-## ⭐ Si este proyecto te fue útil, no olvides darle una estrella al repositorio.
-
-**¡Gracias por visitar este proyecto!**
+## ⭐ **¡Gracias por visitar este proyecto!**
 
 </div>
