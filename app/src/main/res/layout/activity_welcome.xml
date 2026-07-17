@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://android.com"
+    xmlns:tools="http://tools.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/imagen_fondo_minimalista"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:orientation="vertical"
+        android:paddingHorizontal="32dp"
+        android:paddingVertical="48dp">
+
+        <TextView
+            android:id="@+id/welcomeHeadline"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:fontFamily="sans-serif-light"
+            android:letterSpacing="0.25"
+            android:text="@string/welcome_headline"
+            android:textColor="@color/satin_red"
+            android:textSize="26sp" />
+
+        <FrameLayout
+            android:layout_width="220dp"
+            android:layout_height="220dp"
+            android:layout_marginTop="40dp">
+
+            <ImageView
+                android:id="@+id/scanFrameImage"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:contentDescription="@string/cd_scan_frame"
+                android:src="@drawable/ic_scan_frame" />
+
+
+        </FrameLayout>
+
+        <TextView
+            android:id="@+id/welcomeMessage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dp"
+            android:gravity="center"
+            android:letterSpacing="0.08"
+            android:textColor="@color/satin_red"
+            android:textSize="14sp"
+            android:textStyle="bold"
+            tools:text="BIENVENIDO, USER@TIC.UNAM.MX" />
+
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/startScanButton"
+            style="@style/Widget.Material3.Button"
+            android:layout_width="match_parent"
+            android:layout_height="68dp"
+            android:layout_alignParentBottom="true"
+            android:layout_marginHorizontal="32dp"
+            android:layout_marginTop="48dp"
+            android:layout_marginBottom="24dp"
+            android:backgroundTint="@color/satin_red"
+            android:letterSpacing="0.15"
+            android:text="INICIAR ASISTENTE AI"
+            android:textColor="@color/black_matte"
+            app:shapeAppearanceOverlay="@null" />
+
+    </LinearLayout>
+</ScrollView>
