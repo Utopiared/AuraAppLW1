@@ -170,7 +170,8 @@ En caso contrario, se informa al usuario mediante un mensaje en pantalla.
 
 ## Pantalla de Login
 
-> *(Agregar aquí una captura de la pantalla principal)*
+> *<img width="430" height="748" alt="image" src="https://github.com/user-attachments/assets/f7d7eaa5-64cc-410c-a8b0-28e4b973694e" />
+*
 
 ```
 📷 login.png
@@ -180,7 +181,8 @@ En caso contrario, se informa al usuario mediante un mensaje en pantalla.
 
 ## Pantalla de Bienvenida
 
-> *(Agregar aquí una captura de la segunda pantalla)*
+> *<img width="453" height="802" alt="image" src="https://github.com/user-attachments/assets/9fd68202-3610-48fe-a175-5659284be6b8" />
+*
 
 ```
 📷 welcome.png
@@ -197,45 +199,6 @@ En caso contrario, se informa al usuario mediante un mensaje en pantalla.
 - ✔ Diseño moderno
 - ✔ Compatible con Android Studio
 - ✔ Código desarrollado completamente en Kotlin
-
----
-
-# 📚 Competencias Desarrolladas
-
-Durante la elaboración de esta práctica se aplicaron conocimientos sobre:
-
-- Programación orientada a objetos.
-- Desarrollo móvil.
-- Manejo de Activities.
-- Navegación mediante Intents.
-- Componentes gráficos.
-- Eventos de botones.
-- Validación de datos.
-- Uso de EditText y Button.
-
----
-
-# 🎓 Evidencias de Aprendizaje
-
-Al finalizar esta práctica el estudiante es capaz de:
-
-- Crear interfaces gráficas en Android.
-- Implementar formularios de autenticación.
-- Validar información ingresada por el usuario.
-- Navegar entre pantallas.
-- Utilizar Kotlin para desarrollar aplicaciones móviles.
-
----
-
-# 📌 Posibles Mejoras
-
-- 🔐 Base de datos SQLite.
-- ☁ Inicio de sesión con Firebase Authentication.
-- 👤 Registro de usuarios.
-- 🔑 Recuperación de contraseña.
-- 🌙 Modo oscuro.
-- 📲 Diseño adaptable.
-- 🎨 Animaciones de transición.
 
 ---
 
